@@ -1,2 +1,2 @@
 # personal-portfolio
-[portfolio link](https://shailkumari.netlify.app/)
+[PROFESSIONAL PORTFOLIO](https://shailkumari.netlify.app/)
